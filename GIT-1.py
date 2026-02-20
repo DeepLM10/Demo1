@@ -6,4 +6,5 @@ a,b = 2,3
 z = func(a,b)
 print(z)
 
-#kush
+# kush
+
